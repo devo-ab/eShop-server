@@ -20,3 +20,6 @@ Technology: Node.js, express.js, mongoDB, cors.
 * Open terminal and type npm i and click enter button to install dependencies.
 6. Run The Project :
 * nodemon index.js,and click the link to watch the server side website.
+
+
+
